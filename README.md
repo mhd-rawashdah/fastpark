@@ -2,7 +2,7 @@
 ParkIn
 
 > Pithy project description
- ParkIn is an online community marketplace that connects people looking to rent their Grage homes with people who are looking for Space to park their car. ParkIn include hosts and users: hosts list and rent out their unused garage spaces, and users search for and book the hoster garage.
+ ParkIn is an online community marketplace that connects people looking to rent their Grage homes with people who are looking for Space to park their car.ParkIn include hosts and users: hosts list and rent out their unused garage spaces, and users search for and book the hoster garage.
 ## Team
 
   - __Product Owner__: Azhar
